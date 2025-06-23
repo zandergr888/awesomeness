@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1 className="title">Our Memory Scrapbook</h1>
+        <h1 className="title">Alex + Callie = Awesomeness</h1>
         <p className="subtitle">February - June 2025</p>
         <div className="search-container">
           <input

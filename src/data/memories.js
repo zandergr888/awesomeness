@@ -5,8 +5,8 @@ export const memories = [
     date: "February 6, 2024",
     emoji: "🏃‍♀️",
     color: "#FFE5E5",
-    fact: "Our very first run together!",
-    image: "/images/first-run.jpeg"
+    fact: "Our very first run together",
+    image: "/awesomeness/images/first-run.jpeg"
   },
   {
     id: 2,
@@ -14,8 +14,8 @@ export const memories = [
     date: "February 11, 2024",
     emoji: "🏃‍♂️",
     color: "#E5F3FF",
-    fact: "Second time's the charm!",
-    // image: "/images/second-run.jpg"
+    fact: "Fun run in the rain",
+    // image: "/awesomeness/images/second-run.jpg"
   },
   {
     id: 3,
@@ -23,8 +23,8 @@ export const memories = [
     date: "February 15, 2024",
     emoji: "🎽",
     color: "#FFF2E5",
-    fact: "Pre-marathon prep day!",
-    // image: "/images/marathon-prep.jpg"
+    fact: "Thanks for the Gu's and the Electrolytes Fam",
+    // image: "/awesomeness/images/marathon-prep.jpg"
   },
   {
     id: 4,
@@ -32,8 +32,8 @@ export const memories = [
     date: "February 16, 2024",
     emoji: "🏁",
     color: "#E8F5E8",
-    fact: "The big day!",
-    image: "/images/marathon.jpeg"
+    fact: "You're really awesome btw",
+    image: "/awesomeness/images/marathon.jpeg"
   },
   {
     id: 5,
@@ -41,8 +41,8 @@ export const memories = [
     date: "February 19, 2024",
     emoji: "🚶‍♀️",
     color: "#E5FFF0",
-    fact: "The walk that changed everything!",
-    // image: "/images/walk-date.jpg"
+    fact: "Glad you said yes",
+    // image: "/awesomeness/images/walk-date.jpg"
   },
   {
     id: 6,
@@ -50,8 +50,8 @@ export const memories = [
     date: "February 27, 2024",
     emoji: "📚",
     color: "#FFF8E5",
-    fact: "Study buddies!",
-    // image: "/images/studying.jpg"
+    fact: "this was sooo productive",
+    // image: "/awesomeness/images/studying.jpg"
   },
   {
     id: 7,
@@ -59,8 +59,8 @@ export const memories = [
     date: "March 1, 2024",
     emoji: "🎤",
     color: "#E5FFE5",
-    fact: "Inspiring talks!",
-    // image: "/images/ted-talk.jpg"
+    fact: "You inspire me btw",
+    // image: "/awesomeness/images/ted-talk.jpg"
   },
   {
     id: 8,
@@ -68,17 +68,17 @@ export const memories = [
     date: "March 2, 2024",
     emoji: "👍",
     color: "#FFE5E5",
-    fact: "Our official first date!",
-    // image: "/images/first-date.jpg"
+    fact: "Fun times talking about watch stats",
+    // image: "/awesomeness/images/first-date.jpg"
   },
   {
     id: 9,
-    title: "10 Mile Run",
+    title: "18 Mile Run",
     date: "March 6, 2024",
     emoji: "🦵",
     color: "#F0E5FF",
-    fact: "Double digits!",
-    // image: "/images/10-mile.jpg"
+    fact: "Only 10 for me, because I'm weak",
+    // image: "/awesomeness/images/10-mile.jpg"
   },
   {
     id: 10,
@@ -86,8 +86,8 @@ export const memories = [
     date: "March 13, 2024",
     emoji: "🏓",
     color: "#FFF0E5",
-    fact: "Pickleball pros in training!",
-    image: "/images/pickleball.jpeg"
+    fact: "Pickleball pros in training",
+    image: "/awesomeness/images/pickleball.jpeg"
   },
   {
     id: 11,
@@ -95,8 +95,8 @@ export const memories = [
     date: "March 22, 2024",
     emoji: "🏃‍♀️💨",
     color: "#E5F0FF",
-    fact: "13.1 miles!",
-    image: "/images/half-marathon.jpeg"
+    fact: "Ngl I'm not coming back to Brenham",
+    image: "/awesomeness/images/half-marathon.jpeg"
   },
   {
     id: 12,
@@ -104,8 +104,8 @@ export const memories = [
     date: "March 23, 2024",
     emoji: "🎉",
     color: "#FFE8E5",
-    fact: "The day we made it official!",
-    image: "/images/official-day.jpg"
+    fact: "Thanks again for saying yes, You're a blesssing from God",
+    image: "/awesomeness/images/official-day.jpg"
   },
   {
     id: 13,
@@ -113,8 +113,8 @@ export const memories = [
     date: "March 30, 2024",
     emoji: "🏃‍♀️🏆",
     color: "#FFE5F5",
-    fact: "She's a marathon champion!",
-    image: "/images/her-marathon.jpeg"
+    fact: "In disbelief of how you were able to run 26.2 miles in 85 degrees, no shade",
+    image: "/awesomeness/images/her-marathon.jpeg"
   },
   {
     id: 14,
@@ -122,8 +122,8 @@ export const memories = [
     date: "April 3, 2024",
     emoji: "🌳",
     color: "#E5FFF0",
-    fact: "Peaceful walk in the park!",
-    image: "/images/pease-park.jpeg"
+    fact: "Top tier date ngl",
+    image: "/awesomeness/images/pease-park.jpeg"
   },
   {
     id: 15,
@@ -131,8 +131,8 @@ export const memories = [
     date: "April 6, 2024",
     emoji: "👥",
     color: "#E5FFF8",
-    fact: "Double date fun!",
-    // image: "/images/double-date-earl.jpg"
+    fact: "Many, many asians on this day",
+    // image: "/awesomeness/images/double-date-earl.jpg"
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const memories = [
     emoji: "🌲",
     color: "#E8FFE5",
     fact: "My personal favorite date",
-    image: "/images/barton-creek.jpeg"
+    image: "/awesomeness/images/barton-creek.jpeg"
   },
   {
     id: 17,
@@ -149,8 +149,8 @@ export const memories = [
     date: "April 9, 2024",
     emoji: "📊",
     color: "#FFF5E5",
-    fact: "Productive day!",
-    image: "/images/research-day.jpeg"
+    fact: "You are my #1 supporter, Thank you for being amazing",
+    image: "/awesomeness/images/research-day.jpeg"
   },
   {
     id: 18,
@@ -158,8 +158,8 @@ export const memories = [
     date: "April 10, 2024",
     emoji: "🏓👥",
     color: "#E5E8FF",
-    fact: "Group pickleball!",
-    image: "/images/chantz.jpeg"
+    fact: "Chantz is so good at pickleball",
+    image: "/awesomeness/images/chantz.jpeg"
   },
   {
     id: 19,
@@ -167,8 +167,8 @@ export const memories = [
     date: "April 12, 2024",
     emoji: "🏃‍♀️",
     color: "#FFE5E8",
-    fact: "Quick 3.1 miles!",
-    image: "/images/5k.jpeg"
+    fact: "#1 supporter, #1 human",
+    image: "/awesomeness/images/5k.jpeg"
   },
   {
     id: 20,
@@ -176,8 +176,8 @@ export const memories = [
     date: "April 13, 2024",
     emoji: "👥",
     color: "#FFE8F0",
-    fact: "Double date adventures!",
-    // image: "/images/double-date-mia.jpg"
+    fact: "Super fun date. Mia Li and DJ are awesome",
+    // image: "/awesomeness/images/double-date-mia.jpg"
   },
   {
     id: 21,
@@ -185,8 +185,8 @@ export const memories = [
     date: "April 16, 2024",
     emoji: "🏠",
     color: "#FFF0E8",
-    fact: "Cozy dinner at home!",
-    image: "/images/apartment-dinner.jpeg"
+    fact: "I hope you liked it!",
+    image: "/awesomeness/images/apartment-dinner.jpeg"
   },
   {
     id: 22,
@@ -194,8 +194,8 @@ export const memories = [
     date: "April 19, 2024",
     emoji: "🐰",
     color: "#E8FFE8",
-    fact: "Easter with family!",
-    image: "/images/easter.jpeg"
+    fact: "So happy to meet your fam. They're amazing, just like you",
+    image: "/awesomeness/images/easter.jpeg"
   },
   {
     id: 23,
@@ -203,8 +203,8 @@ export const memories = [
     date: "April 23, 2024",
     emoji: "🌲",
     color: "#FFE8E8",
-    fact: "One month anniversary hike!",
-    image: "/images/hike-anniversary.jpeg"
+    fact: "Another top tier date",
+    image: "/awesomeness/images/hike-anniversary.jpeg"
   },
   {
     id: 24,
@@ -212,8 +212,8 @@ export const memories = [
     date: "April 25, 2024",
     emoji: "🍽️",
     color: "#E8F0FF",
-    fact: "Amazing dinner at Sam's!",
-    // image: "/images/sams-dinner.jpg"
+    fact: "Really fun times fam",
+    // image: "/awesomeness/images/sams-dinner.jpg"
   },
   {
     id: 25,
@@ -221,8 +221,8 @@ export const memories = [
     date: "April 29, 2024",
     emoji: "🎂",
     color: "#FFE5E8",
-    fact: "The best birthday surprise ever!",
-    image: "/images/birthday.jpeg"
+    fact: "I'm still in disbelief of how you pulled this off. Felt incredibly loved by so many people",
+    image: "/awesomeness/images/birthday.jpeg"
   },
   {
     id: 26,
@@ -230,8 +230,8 @@ export const memories = [
     date: "May 24, 2024",
     emoji: "👨‍👩‍👧‍👦",
     color: "#E8E8FF",
-    fact: "Meeting the family!",
-    // image: "/images/meeting-family.jpg"
+    fact: "Lita's and Tia's family are so amazing, just like you",
+    // image: "/awesomeness/images/meeting-family.jpg"
   },
   {
     id: 27,
@@ -239,8 +239,8 @@ export const memories = [
     date: "May 26, 2024",
     emoji: "🌳",
     color: "#E5FFE5",
-    fact: "Peaceful walks in nature.",
-    image: "/images/arbor-hills.jpeg"
+    fact: "Another top tier date",
+    image: "/awesomeness/images/arbor-hills.jpeg"
   },
   {
     id: 28,
@@ -248,8 +248,8 @@ export const memories = [
     date: "June 6, 2024",
     emoji: "🧗‍♀️",
     color: "#FFE5E8",
-    fact: "Climbing adventures!",
-    // image: "/images/bouldering.jpg"
+    fact: "Top 5 date",
+    // image: "/awesomeness/images/bouldering.jpg"
   },
   {
     id: 29,
@@ -257,8 +257,8 @@ export const memories = [
     date: "June 7, 2024",
     emoji: "💪",
     color: "#E5E8FF",
-    fact: "Sweating it out together!",
-    // image: "/images/barrys-workout.jpg"
+    fact: "Dude this was tough, garmin said i needed to recover for 41 hours",
+    // image: "/awesomeness/images/barrys-workout.jpg"
   },
   {
     id: 30,
@@ -266,8 +266,8 @@ export const memories = [
     date: "June 7, 2024",
     emoji: "🌸",
     color: "#FFE8F0",
-    fact: "Beautiful flowers and peaceful gardens.",
-    image: "/images/zilker.jpeg"
+    fact: "Beautiful flowers, Beautiful human with me",
+    image: "/awesomeness/images/zilker.jpeg"
   },
   {
     id: 31,
@@ -275,8 +275,8 @@ export const memories = [
     date: "June 7, 2024",
     emoji: "👟",
     color: "#E8F0FF",
-    fact: "Getting fitted for the perfect running shoes!",
-    // image: "/images/fleet-feet.jpg"
+    fact: "Thank you fam",
+    // image: "/awesomeness/images/fleet-feet.jpg"
   },
   {
     id: 32,
@@ -284,8 +284,8 @@ export const memories = [
     date: "June 7, 2024",
     emoji: "🍜",
     color: "#FFF0E8",
-    fact: "Delicious pho!",
-    // image: "/images/pho-austin.jpg"
+    fact: "You're cute",
+    // image: "/awesomeness/images/pho-austin.jpg"
   },
   {
     id: 33,
@@ -293,8 +293,8 @@ export const memories = [
     date: "June 7, 2024",
     emoji: "🎬",
     color: "#E8FFE8",
-    fact: "Relaxing movie night together.",
-    // image: "/images/movie-chill.jpg"
+    fact: "You're really cute",
+    // image: "/awesomeness/images/movie-chill.jpg"
   },
   {
     id: 34,
@@ -302,8 +302,8 @@ export const memories = [
     date: "June 8, 2024",
     emoji: "☕",
     color: "#E8E8FF",
-    fact: "Coffee dates are the best!",
-    image: "/images/coffee.jpeg"
+    fact: "Another top 5 date. You're cute btw",
+    image: "/awesomeness/images/coffee.jpeg"
   },
   {
     id: 35,
@@ -311,17 +311,17 @@ export const memories = [
     date: "June 8, 2024",
     emoji: "⛪",
     color: "#E8E8FF",
-    fact: "Spiritual moments together.",
-    // image: "/images/church-service.jpg"
+    fact: "This was good, you're low key converting me",
+    // image: "/awesomeness/images/church-service.jpg"
   },
   {
     id: 36,
-    title: "Ramen + Arbor HillsDate",
+    title: "Ramen + Bingsu + Arbor Hills Date",
     date: "June 12, 2024",
     emoji: "🍜",
     color: "#FFF0E8",
-    fact: "Warm ramen on a perfect date night.",
-    image: "/images/ramen.jpg"
+    fact: "Top tier date ngl",
+    image: "/awesomeness/images/ramen.jpg"
   },
   {
     id: 37,
@@ -329,8 +329,8 @@ export const memories = [
     date: "June 14, 2024",
     emoji: "👨",
     color: "#E5FFE5",
-    fact: "Big milestone!",
-    // image: "/images/meeting-dad.jpg"
+    fact: "He adores you",
+    // image: "/awesomeness/images/meeting-dad.jpg"
   },
 //   {
 //     id: 38,
